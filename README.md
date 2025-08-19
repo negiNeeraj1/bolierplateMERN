@@ -33,7 +33,10 @@ This repository provides a robust backend template for hackathon projects (e.g.,
 - **Socket.io** integration (chat, live updates, notifications)
 
 ### 7. **Deployment Readiness**
-- **Scripts** for Railway/Heroku
+- **Scripts** 
+    Frontend- vercel
+    Backend- railways
+    Database -mongodb
 - **.gitignore** & build steps clearly defined
 
 ---
@@ -102,6 +105,8 @@ This repository provides a robust backend template for hackathon projects (e.g.,
     - Change schemas/models & routes as per project needs
     - Keep auth, uploads, and real-time features intact
 
+
+    -PURA PROJECT AISE RHEGA I ONLY NEED TO CHANGE THE API KEYS JO NEW LAGENGI AND CHANGE THE FRONTEND ....
 ---
 
 ## 🔐 Role-Based Access Control (RBAC)
